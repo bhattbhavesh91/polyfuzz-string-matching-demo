@@ -4,7 +4,7 @@
 * [Click here](https://youtu.be/fhw2Do8KknU)
 * Click on the image below
 
-[![Zero Shot Classification with HuggingFace Pipeline](http://img.youtube.com/vi/fhw2Do8KknU/0.jpg)](http://www.youtube.com/watch?v=fhw2Do8KknU)
+[![Fuzzy String Matching with BERT, TF-IDF using PolyFuzz](http://img.youtube.com/vi/fhw2Do8KknU/0.jpg)](http://www.youtube.com/watch?v=fhw2Do8KknU)
 
 ### Want to know more about me?
 ## Follow Me
