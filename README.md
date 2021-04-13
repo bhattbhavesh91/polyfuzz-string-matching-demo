@@ -1,8 +1,14 @@
 # Fuzzy String Matching with BERT, TF-IDF using PolyFuzz
 
 ## To view the video
-* [Click here](https://youtu.be/fhw2Do8KknU)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=fhw2Do8KknU" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/fhw2Do8KknU?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Fuzzy String Matching with BERT, TF-IDF using PolyFuzz](http://img.youtube.com/vi/fhw2Do8KknU/0.jpg)](http://www.youtube.com/watch?v=fhw2Do8KknU)
 
